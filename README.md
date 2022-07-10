@@ -2,4 +2,4 @@
 This project focused on Indian census analysis based on different measures. i have used SSMS to performed SQL analysis. 
 also, used Two different data files which we stored in database initially to performed analysis.  the data files and code are attached.       
 
-p.s - this is just for learning purpose and i have taken helped from youtube.
+p.s - this project i just for learning purpose and i have taken help from youtube.
